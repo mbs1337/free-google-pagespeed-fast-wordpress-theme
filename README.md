@@ -270,8 +270,7 @@ Skills organized into clear categories:
 
 ## License
 
-GNU General Public License v2 or later
-[http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
+GPL-3.0 [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ---
 
