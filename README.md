@@ -264,7 +264,6 @@ Skills organized into clear categories:
 
 ## Get Help
 
-- **Email**: contact@mbstech.dk
 - **GitHub Issues**: [github.com/mbs1337](https://github.com/mbs1337)
 - **Twitter**: [@baysorensen](https://twitter.com/baysorensen)
 
