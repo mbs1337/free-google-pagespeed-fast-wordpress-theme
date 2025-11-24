@@ -6,7 +6,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)
 ![Bootstrap 5.3](https://img.shields.io/badge/Bootstrap-5.3-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![License](https://img.shields.io/badge/License-GPL%20v2-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)
 
 A dark-themed WordPress theme built for speed. No page builders, no drag and drop, no bloat. Just clean PHP, HTML, CSS, JavaScript, and Bootstrap 5.3.
 
