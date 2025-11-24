@@ -1,5 +1,8 @@
 # Google PageSpeed 100/100 WordPress Theme
 
+<a href="https://github.com/mbs1337" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square" alt="Built By"></a>
+
+
 [![Built By](https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square)](https://github.com/mbs1337)
 [![Website](https://img.shields.io/badge/mbstech.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)](https://mbstech.dk)
 [![PageSpeed 100/100](https://img.shields.io/badge/PageSpeed-100%2F100-brightgreen?style=flat-square&logo=google&logoColor=white)](https://pagespeed.web.dev/analysis?url=https://mbstech.dk)
