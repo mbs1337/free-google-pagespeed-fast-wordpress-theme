@@ -1,12 +1,12 @@
 # Google PageSpeed 100/100 WordPress Theme
 
-![Built By](https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square)
-![Website](https://img.shields.io/badge/mbstech.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)
-![PageSpeed 100/100](https://img.shields.io/badge/PageSpeed-100%2F100-brightgreen?style=flat-square&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)
-![Bootstrap 5.3](https://img.shields.io/badge/Bootstrap-5.3-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
-![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)
+[![Built By](https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square)](https://github.com/mbs1337)
+[![Website](https://img.shields.io/badge/mbstech.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)](https://mbstech.dk)
+[![PageSpeed 100/100](https://img.shields.io/badge/PageSpeed-100%2F100-brightgreen?style=flat-square&logo=google&logoColor=white)](https://pagespeed.web.dev/analysis?url=https://mbstech.dk)
+[![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Bootstrap 5.3](https://img.shields.io/badge/Bootstrap-5.3-7952b3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/)
+[![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 A dark-themed WordPress theme built for speed. No page builders, no drag and drop, no bloat. Just clean PHP, HTML, CSS, JavaScript, and Bootstrap 5.3.
 
