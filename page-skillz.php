@@ -75,6 +75,14 @@ get_header();
 
                     <div class="skill-item">
                         <div class="skill-icon-box">
+                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/python-icon.png" alt="Python">
+                        </div>
+                        <h3 class="h6 mt-3">Python</h3>
+                        <p class="skill-rating">★★★★☆</p>
+                    </div>
+
+                    <div class="skill-item">
+                        <div class="skill-icon-box">
                             <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/mariadb-icon.png" alt="MariaDB">
                         </div>
                         <h3 class="h6 mt-3">MariaDB</h3>
@@ -99,9 +107,17 @@ get_header();
 
                     <div class="skill-item">
                         <div class="skill-icon-box">
-                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/python-icon.png" alt="Python">
+                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/react-icon.png" alt="Node.js">
                         </div>
-                        <h3 class="h6 mt-3">Python</h3>
+                        <h3 class="h6 mt-3">React</h3>
+                        <p class="skill-rating">★★☆☆☆</p>
+                    </div>
+
+                    <div class="skill-item">
+                        <div class="skill-icon-box">
+                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/angular-icon.png" alt="Node.js">
+                        </div>
+                        <h3 class="h6 mt-3">Angular</h3>
                         <p class="skill-rating">★★☆☆☆</p>
                     </div>
 
@@ -118,7 +134,7 @@ get_header();
                             <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/laravel-icon.png" alt="Laravel">
                         </div>
                         <h3 class="h6 mt-3">Laravel</h3>
-                        <p class="skill-rating">★☆☆☆☆</p>
+                        <p class="skill-rating">★★☆☆☆</p>
                     </div>
                 </div>
             </section>
@@ -364,17 +380,17 @@ get_header();
 
                     <div class="skill-item">
                         <div class="skill-icon-box">
-                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/claude-icon.png" alt="Claude Code">
+                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/mcp-icon.png" alt="MCP">
                         </div>
-                        <h3 class="h6 mt-3">Claude Code</h3>
+                        <h3 class="h6 mt-3">MCP</h3>
                         <p class="skill-rating">★★★★☆</p>
                     </div>
 
                     <div class="skill-item">
                         <div class="skill-icon-box">
-                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/mcp-icon.png" alt="MCP">
+                            <img src="https://mbstech.dk/wp-content/themes/mbstech/assets/img/claude-icon.png" alt="Claude Code">
                         </div>
-                        <h3 class="h6 mt-3">MCP</h3>
+                        <h3 class="h6 mt-3">Claude Code</h3>
                         <p class="skill-rating">★★★★☆</p>
                     </div>
 
@@ -663,7 +679,7 @@ get_header();
                     </p>
                     <div class="d-flex gap-3 justify-content-center">
                     <a href="#" id="get-in-touch-link" class="btn btn-primary" rel="nofollow" aria-describedby="get-in-touch-popover" role="button">
-                        Get In Touch
+                        Get in Touch
                     </a>
                         <a href="<?php echo esc_url(home_url('/life/')); ?>" class="btn btn-secondary">Lookup my Passions</a>
                     </div>
