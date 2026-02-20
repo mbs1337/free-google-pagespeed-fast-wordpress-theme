@@ -226,7 +226,7 @@ Skills organized into clear categories:
 
 ## Changelog
 
-**Version 0.9.0** (2025 @ 5. Oct)
+**Version 0.9.0** 2025 @ 5. Oct
 - Initial release
 - Dark theme with modern UI
 - Bootstrap 5.3 integration
@@ -239,7 +239,7 @@ Skills organized into clear categories:
 - Social media integration
 - 100/100 Google PageSpeed score
 
-**Version 1.1.0** (2026 @ 20. Feb)
+**Version 1.1.0** 2026 @ 20. Feb
 - Replaced all personal content with Lorem Ipsum placeholder text
 - Updated all buttons and headings with generic text
 - CSS improvements and cleanup
