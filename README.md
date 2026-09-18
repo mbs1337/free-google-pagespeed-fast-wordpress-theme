@@ -249,8 +249,8 @@ Skills organized into clear categories:
 
 ## Get Help
 
-- **Email**: michael@mbstech.dk
-- **GitHub Issues**: [github.com/mbs1337](https://github.com/mbs1337)
+- **Name**: Michael Bay Sørensen
+- **Website**: [mbsTECH.dk](https://mbstech.dk)
 - **Twitter**: [@baysorensen](https://twitter.com/baysorensen)
 
 ## License
