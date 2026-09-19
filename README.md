@@ -2,7 +2,15 @@
 
 A dark-themed WordPress theme built for speed. No page builders, no drag and drop, no bloat. Just clean PHP, HTML, CSS, JavaScript, and Bootstrap 5.3.
 
+![Google PageSpeed Insights score](assets/img/pagespeed.png)
+
 > **Public demo note:** Copy, CTAs, buttons, portfolio items, timeline entries, and contact links in this repo are placeholders (`hello@example.com`, `#` socials, lorem labels). Replace with your own content before going live.
+
+## Live demo
+
+See the theme running in production (real content, not the lorem placeholders in this repo):
+
+**[mbstech.dk](https://mbstech.dk)**
 
 ## Why This Theme?
 
@@ -146,7 +154,8 @@ Skills organized into clear categories:
 - Public demo release: theme copy, CTAs, and buttons use placeholder / lorem text
 - Portfolio and Life timeline use demo labels and `#` links (no live client sites)
 - Contact email placeholder `hello@example.com`; social links use `#`
-
+- Theme header: Theme/Author URI → wordpress.org; **Author** credit kept
+- README: public GitHub notes, PageSpeed screenshot (`assets/img/pagespeed.png`), **Live demo** → [mbstech.dk](https://mbstech.dk)
 
 ## Get Help
 
