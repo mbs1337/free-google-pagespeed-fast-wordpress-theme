@@ -10,7 +10,7 @@ A dark-themed WordPress theme built for speed. No page builders, no drag and dro
 
 See the theme running in production (real content, not the lorem placeholders in this repo):
 
-**[mbstech.dk](https://mbstech.dk)**
+**[See live demo](https://mbstech.dk)**
 
 ## Why This Theme?
 
